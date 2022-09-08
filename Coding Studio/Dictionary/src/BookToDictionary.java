@@ -36,6 +36,7 @@ public class BookToDictionary {
     public static void main(String[] args) {
         // Link to A Tale of Two Cities
         String book = "https://www.gutenberg.org/files/98/98-0.txt";
+        browseTextFile(book);
     }  // method main
 
 }  // class BookToDictionary
